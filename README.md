@@ -1,0 +1,2 @@
+# NBD
+gotowe ćwiczenia
