@@ -1,0 +1,69 @@
+#zad1
+MATCH (z:town {name:"Darjeeling"}), (do:peak {name:"Sandakphu"}), path = shortestPath((z)-[*]-(do))
+RETURN path
+
+#zad2
+MATCH (z:town {name:"Darjeeling"}), (do:peak {name:"Sandakphu"}), path = shortestPath((z)-[*]-(do)) WHERE ALL (szlak IN relationships(path) WHERE szlaki.winter="true")
+RETURN path
+
+#zad3
+MATCH (z:town {name:"Darjeeling"}),(do:peak {name:"Sandakphu"}), path = shortestPath((z)-[*]->(do))
+RETURN path, REDUCE (droga = 0, p in relationships(path) | droga + p.distance) AS droga ORDER BY droga
+
+MATCH path = (z:town {name: "Darjeeling"})-[:twowheeler*]-(do) WHERE ALL(r IN relationships(path) WHERE r.summer = 'true')
+RETURN path, do
+
+#zad4
+MATCH (lotnisko:Airport)-[:ORIGIN]-(lot: Flight) RETURN lotnisko, COUNT(lot) AS loty ORDER BY loty DESC
+
+#zad5
+MATCH (lot: Flight)-[:ASSIGN]-(bilet:Ticket) WITH lot, bilet, MIN(bilet) as min_cena 
+SET lot.najnizsza_cena = min_cena
+
+MATCH (z: Airport)-[:ORIGIN]-(lot: Flight)-[:DESTINATION]-(do: Airport)
+CREATE (z)-[przelot:CONNECTION {najnizsza_cena: lot.najnizsza_cena}] -> (do)
+
+MATCH p = (lax: Airport {name:"LAX"})-[lot:CONNECTION]-(do: Airport) 
+WITH lax, lot, do, REDUCE(suma = 0, c in relationships(p) | suma + c.najnizsza_cena) AS cena 
+WHERE cena < 3000 
+RETURN do, cena 
+ORDER BY cena
+
+#zad6
+MATCH p = (lax: Airport {name:"LAX"})-[lot:CONNECTION*..3]-(do: Airport {name: "DAY"}) 
+WITH p, lax, lot, do, REDUCE(suma = 0, c in relationships(p) | suma + c.najnizsza_cena) AS cena
+RETURN p, lax, lot, do, cena
+ORDER BY cena
+
+#zad7
+MATCH p = (lax: Airport {name:"LAX"})-[lot:CONNECTION*..3]-(do: Airport {name: "DAY"}) 
+WITH p, lax, lot, do, REDUCE(suma = 0, c in relationships(p) | suma + c.najnizsza_cena) AS cena
+RETURN p, lax, lot, do, cena
+ORDER BY cena
+LIMIT 1
+
+#zad8
+MATCH (z: Flight)-[:ASSIGN]-(bilet:Ticket {class: "business"}) SET z.klasa_business = bilet.price
+
+MATCH (z: Airport)-[:ORIGIN]-(lot: Flight)-[:DESTINATION]-(do: Airport)
+WHERE lot.klasa_business > 0
+CREATE (z)-[połączenie:BUSINESS {cena: lot.klasa_business}]->(do)
+
+MATCH p = (lax: Airport {name:"LAX"})-[lot:BUSINESS*..3]-(do: Airport {name: "DAY"}) 
+WITH p, lax, lot, do, REDUCE(suma = 0, c in relationships(p) | suma + c.najnizsza_cena) AS cena
+RETURN p, lax, lot, do, cena
+ORDER BY cena
+LIMIT 1
+
+#zad9
+MATCH (lot:Flight) --> (do: Airport)
+RETURN lot.airline, count(DISTINCT do) AS miasta
+ORDER BY miasta DESC
+
+#zad10
+MATCH p = (z: Airport)-[lot1: CONNECTION]->(:Airport)-[lot2: CONNECTION]->(do: Airport)
+WHERE NOT (z=do)
+WITH p AS trasa, REDUCE(suma = 0, c in relationships(p) | suma + c.najnizsza_cena) as laczna_cena
+ORDER BY laczna_cena
+RETURN trasa, laczna_cena
+

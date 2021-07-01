@@ -1,0 +1,162 @@
+﻿[
+  {
+    "p": {
+"start": {
+"identity": 353,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "LAX"
+        }
+      },
+"end": {
+"identity": 418,
+"labels": [
+          "Airport"
+        ],
+"properties": {
+"name": "DAY"
+        }
+      },
+"segments": [
+        {
+          "start": {
+"identity": 353,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "LAX"
+            }
+          },
+          "relationship": {
+"identity": 2083,
+"start": 355,
+"end": 353,
+"type": "CONNECTION",
+"properties": {
+"najnizsza_cena": 1365.75
+            }
+          },
+          "end": {
+"identity": 355,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 355,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "ORD"
+            }
+          },
+          "relationship": {
+"identity": 2093,
+"start": 356,
+"end": 355,
+"type": "CONNECTION",
+"properties": {
+"najnizsza_cena": 263.25
+            }
+          },
+          "end": {
+"identity": 356,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "MSP"
+            }
+          }
+        },
+        {
+          "start": {
+"identity": 356,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "MSP"
+            }
+          },
+          "relationship": {
+"identity": 2332,
+"start": 356,
+"end": 418,
+"type": "CONNECTION",
+"properties": {
+"najnizsza_cena": 447.75
+            }
+          },
+          "end": {
+"identity": 418,
+"labels": [
+              "Airport"
+            ],
+"properties": {
+"name": "DAY"
+            }
+          }
+        }
+      ],
+"length": 3.0
+    },
+    "lax": {
+"identity": 353,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "LAX"
+      }
+    },
+    "lot": [
+      {
+        "identity": 2083,
+        "start": 355,
+        "end": 353,
+        "type": "CONNECTION",
+        "properties": {
+"najnizsza_cena": 1365.75
+        }
+      },
+      {
+        "identity": 2093,
+        "start": 356,
+        "end": 355,
+        "type": "CONNECTION",
+        "properties": {
+"najnizsza_cena": 263.25
+        }
+      },
+      {
+        "identity": 2332,
+        "start": 356,
+        "end": 418,
+        "type": "CONNECTION",
+        "properties": {
+"najnizsza_cena": 447.75
+        }
+      }
+    ],
+    "do": {
+"identity": 418,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "DAY"
+      }
+    },
+    "cena": 2076.75
+  }
+]

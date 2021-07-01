@@ -1,0 +1,482 @@
+﻿[
+  {
+    "do": {
+"identity": 389,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FAT"
+      }
+    },
+    "cena": 167.25
+  },
+  {
+    "do": {
+"identity": 389,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FAT"
+      }
+    },
+    "cena": 221
+  },
+  {
+    "do": {
+"identity": 389,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FAT"
+      }
+    },
+    "cena": 222
+  },
+  {
+    "do": {
+"identity": 389,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FAT"
+      }
+    },
+    "cena": 222
+  },
+  {
+    "do": {
+"identity": 389,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FAT"
+      }
+    },
+    "cena": 222
+  },
+  {
+    "do": {
+"identity": 389,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FAT"
+      }
+    },
+    "cena": 225
+  },
+  {
+    "do": {
+"identity": 373,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "LAS"
+      }
+    },
+    "cena": 249
+  },
+  {
+    "do": {
+"identity": 389,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FAT"
+      }
+    },
+    "cena": 265.2
+  },
+  {
+    "do": {
+"identity": 359,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SFO"
+      }
+    },
+    "cena": 266.25
+  },
+  {
+    "do": {
+"identity": 389,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FAT"
+      }
+    },
+    "cena": 266.4
+  },
+  {
+    "do": {
+"identity": 361,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SMF"
+      }
+    },
+    "cena": 294.75
+  },
+  {
+    "do": {
+"identity": 361,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SMF"
+      }
+    },
+    "cena": 296.25
+  },
+  {
+    "do": {
+"identity": 390,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "TUS"
+      }
+    },
+    "cena": 354.0
+  },
+  {
+    "do": {
+"identity": 390,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "TUS"
+      }
+    },
+    "cena": 356.25
+  },
+  {
+    "do": {
+"identity": 361,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SMF"
+      }
+    },
+    "cena": 393
+  },
+  {
+    "do": {
+"identity": 361,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SMF"
+      }
+    },
+    "cena": 394
+  },
+  {
+    "do": {
+"identity": 367,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SLC"
+      }
+    },
+    "cena": 464.25
+  },
+  {
+    "do": {
+"identity": 367,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SLC"
+      }
+    },
+    "cena": 465.0
+  },
+  {
+    "do": {
+"identity": 388,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "cena": 528.75
+  },
+  {
+    "do": {
+"identity": 388,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "cena": 529.5
+  },
+  {
+    "do": {
+"identity": 388,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "cena": 533.25
+  },
+  {
+    "do": {
+"identity": 390,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "TUS"
+      }
+    },
+    "cena": 566.4
+  },
+  {
+    "do": {
+"identity": 390,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "TUS"
+      }
+    },
+    "cena": 570.0
+  },
+  {
+    "do": {
+"identity": 388,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "cena": 705
+  },
+  {
+    "do": {
+"identity": 388,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "cena": 705
+  },
+  {
+    "do": {
+"identity": 388,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "cena": 707
+  },
+  {
+    "do": {
+"identity": 388,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "cena": 710
+  },
+  {
+    "do": {
+"identity": 388,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "cena": 710
+  },
+  {
+    "do": {
+"identity": 367,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SLC"
+      }
+    },
+    "cena": 744.0
+  },
+  {
+    "do": {
+"identity": 367,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SLC"
+      }
+    },
+    "cena": 747.6
+  },
+  {
+    "do": {
+"identity": 388,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "cena": 844.8
+  },
+  {
+    "do": {
+"identity": 388,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "cena": 847.1999999999999
+  },
+  {
+    "do": {
+"identity": 388,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "cena": 859.1999999999999
+  },
+  {
+    "do": {
+"identity": 355,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "cena": 1365.75
+  },
+  {
+    "do": {
+"identity": 350,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "IAH"
+      }
+    },
+    "cena": 1427
+  },
+  {
+    "do": {
+"identity": 355,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "cena": 1824
+  },
+  {
+    "do": {
+"identity": 349,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "EWR"
+      }
+    },
+    "cena": 1905.0
+  },
+  {
+    "do": {
+"identity": 349,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "EWR"
+      }
+    },
+    "cena": 1907.25
+  },
+  {
+    "do": {
+"identity": 371,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "HNL"
+      }
+    },
+    "cena": 2649
+  },
+  {
+    "do": {
+"identity": 364,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "BOS"
+      }
+    },
+    "cena": 2700
+  }
+]

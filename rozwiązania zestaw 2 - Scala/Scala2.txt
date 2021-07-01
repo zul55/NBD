@@ -1,0 +1,96 @@
+// Zad 1 - pattern matching
+
+def Zad1(x:String): String = x match {
+  case "poniedzia¸ek" | "wtorek" | "æroda" | "czwartek" | "piˆtek" => "Praca"
+  case "sobota" | "niedziela" => "Are you learning Scala?"
+  case _ => "Nie ma takiego dnia..."
+   }
+
+Zad1("poniedzi¸ek")
+
+
+// Zad 2 - Konto Bankowe
+
+class KontoBankowe(var stanPoczatkowy: Double = 0) {
+  private var stanKonta = stanPoczatkowy
+
+  def wplata(kwota: Double) = {stanKonta += kwota; stanKonta}
+  
+  def wyplata(kwota: Double) = stanKonta - kwota
+  
+}
+
+val konto1 = new KontoBankowe(500)
+konto1.wplata(20)
+konto1.wyplata(100)
+
+// Zad 3 - Osoba
+
+case class Osoba(var Imie: String, var Nazwisko: String)
+
+  def przywitanie(ktos: Osoba) = ktos match {
+    case Osoba("Lord", nazwisko) => "DzieÄ dobry Lordzie!"
+    case Osoba("Super","Man") => "Jesteæ ekstra!"
+    case _ => "Witaj!"
+  }
+
+val LordVader = new Osoba("Lord", "Vader")
+val Superman = new Osoba("Super", "Man")
+val przyklad = new Osoba("Jan", "Kowalski")
+
+println(przywitanie(LordVader))
+println(przywitanie(Superman))
+println(przywitanie(przyklad))
+
+
+
+// Zad 4 - funkcja w funkcji
+
+def funkcja1(x:Int) = {
+  x*x
+}
+
+def funkcja2(x: Int, f: (Int) => Int) = {
+  x + f(2)
+}
+
+funkcja2(5, funkcja1)
+
+
+// Zad 5 - podatki
+
+abstract class Osobazad5(val Imie: String, val Nazwisko: String) {
+  def podatek: Double
+}
+
+trait Student extends Osobazad5 { override def podatek: Double = 0.0}
+
+trait Pracownik extends Osobazad5 { override def podatek: Double = 0.2 * pensja
+                                  var pensja: Int = 0}
+
+trait Nauczyciel extends Pracownik { override def podatek: Double = 0.1*pensja}
+
+val a = new Osobazad5(Imie = "Anna", Nazwisko = "z Zielonego Wzg—rza") with Student
+println(a.podatek)
+
+val b = new Osobazad5(Imie = "Pracownik", Nazwisko = "Pracowity") with Pracownik
+b.pensja = 2000
+println(b.podatek)
+
+val c = new Osobazad5(Imie = "Nauczyciel", Nazwisko = "Nauczycielski") with Nauczyciel
+c.pensja = 3000
+println(c.podatek)
+
+val d = new Osobazad5(Imie = "Student", Nazwisko = "Pracujˆcy") with Student with Pracownik
+d.pensja = 1000
+println(d.podatek)
+
+val e = new Osobazad5(Imie = "Pracujˆcy", Nazwisko = "Student") with Pracownik with Student
+e.pensja = 1000
+println(e.podatek)
+
+
+
+
+
+

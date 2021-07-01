@@ -1,0 +1,2652 @@
+﻿[
+  {
+    "aktor": {
+"identity": 10,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Emil Eifrem",
+"born": 1978
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 6,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    },
+    "Liczba_filmow": 5
+  },
+  {
+    "aktor": {
+"identity": 5,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Laurence Fishburne",
+"born": 1961
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Carrie-Anne Moss",
+"born": 1967
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 3,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Keanu Reeves",
+"born": 1964
+      }
+    },
+    "Liczba_filmow": 7
+  },
+  {
+    "aktor": {
+"identity": 15,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Al Pacino",
+"born": 1940
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 14,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Charlize Theron",
+"born": 1975
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 26,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "J.T. Walsh",
+"born": 1943
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 24,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Cuba Gooding Jr.",
+"born": 1968
+      }
+    },
+    "Liczba_filmow": 4
+  },
+  {
+    "aktor": {
+"identity": 25,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kevin Pollak",
+"born": 1957
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 28,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Christopher Guest",
+"born": 1948
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 23,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Noah Wyle",
+"born": 1971
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 27,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "James Marshall",
+"born": 1967
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 30,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Aaron Sorkin",
+"born": 1961
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 22,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kiefer Sutherland",
+"born": 1966
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 21,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kevin Bacon",
+"born": 1958
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 20,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Demi Moore",
+"born": 1962
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 19,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jack Nicholson",
+"born": 1937
+      }
+    },
+    "Liczba_filmow": 5
+  },
+  {
+    "aktor": {
+"identity": 18,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tom Cruise",
+"born": 1962
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 32,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kelly McGillis",
+"born": 1957
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 36,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Meg Ryan",
+"born": 1961
+      }
+    },
+    "Liczba_filmow": 5
+  },
+  {
+    "aktor": {
+"identity": 35,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tom Skerritt",
+"born": 1933
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 34,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Anthony Edwards",
+"born": 1962
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 33,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Val Kilmer",
+"born": 1959
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 41,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kelly Preston",
+"born": 1962
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 43,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jay Mohr",
+"born": 1970
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 46,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jonathan Lipnicki",
+"born": 1996
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 42,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jerry O'Connell",
+"born": 1974
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 45,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Regina King",
+"born": 1971
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 40,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Renee Zellweger",
+"born": 1969
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 44,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Bonnie Hunt",
+"born": 1961
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 49,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "River Phoenix",
+"born": 1970
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 53,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Marshall Bell",
+"born": 1942
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 51,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Wil Wheaton",
+"born": 1972
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 52,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "John Cusack",
+"born": 1966
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 50,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Corey Feldman",
+"born": 1971
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 56,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Greg Kinnear",
+"born": 1963
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 55,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Helen Hunt",
+"born": 1963
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 61,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Werner Herzog",
+"born": 1942
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 62,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Robin Williams",
+"born": 1951
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 59,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Annabella Sciorra",
+"born": 1960
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 60,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Max von Sydow",
+"born": 1929
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 67,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "James Cromwell",
+"born": 1940
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 65,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ethan Hawke",
+"born": 1970
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 66,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Rick Yune",
+"born": 1971
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 72,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Steve Zahn",
+"born": 1967
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 73,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tom Hanks",
+"born": 1956
+      }
+    },
+    "Liczba_filmow": 12
+  },
+  {
+    "aktor": {
+"identity": 71,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Dave Chappelle",
+"born": 1973
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 70,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Parker Posey",
+"born": 1968
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 79,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Rosie O'Donnell",
+"born": 1962
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 77,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Bill Pullman",
+"born": 1953
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 76,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Rita Wilson",
+"born": 1956
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 78,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Victor Garber",
+"born": 1949
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 82,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Nathan Lane",
+"born": 1956
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 85,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Carrie Fisher",
+"born": 1956
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 84,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Billy Crystal",
+"born": 1948
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 86,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Bruno Kirby",
+"born": 1949
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 88,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Liv Tyler",
+"born": 1977
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 92,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Orlando Jones",
+"born": 1968
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 91,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Gene Hackman",
+"born": 1930
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 90,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Brooke Langton",
+"born": 1970
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 95,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Christian Bale",
+"born": 1974
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 96,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Zach Grenier",
+"born": 1954
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 100,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Richard Harris",
+"born": 1930
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 101,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Clint Eastwood",
+"born": 1930
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 104,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Dina Meyer",
+"born": 1968
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 103,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Takeshi Kitano",
+"born": 1947
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 105,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ice-T",
+"born": 1958
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 108,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Halle Berry",
+"born": 1966
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 109,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jim Broadbent",
+"born": 1949
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 116,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Paul Bettany",
+"born": 1971
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 114,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ian McKellen",
+"born": 1939
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 115,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Audrey Tautou",
+"born": 1976
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 120,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Stephen Rea",
+"born": 1946
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 119,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Natalie Portman",
+"born": 1981
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 122,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ben Miles",
+"born": 1967
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 121,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "John Hurt",
+"born": 1940
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 128,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Christina Ricci",
+"born": 1980
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 127,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Matthew Fox",
+"born": 1966
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 129,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Rain",
+"born": 1982
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 125,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "John Goodman",
+"born": 1960
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 124,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Emile Hirsch",
+"born": 1985
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 126,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Susan Sarandon",
+"born": 1946
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 131,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Naomie Harris"
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 134,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "David Morse",
+"born": 1953
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 136,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Gary Sinise",
+"born": 1955
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 137,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Patricia Clarkson",
+"born": 1959
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 133,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Michael Clarke Duncan",
+"born": 1957
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 135,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Sam Rockwell",
+"born": 1968
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 142,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Oliver Platt",
+"born": 1960
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 140,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Frank Langella",
+"born": 1938
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 141,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Michael Sheen",
+"born": 1969
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 145,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "John C. Reilly",
+"born": 1965
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 144,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Danny DeVito",
+"born": 1944
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 148,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Bill Paxton",
+"born": 1955
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 147,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ed Harris",
+"born": 1950
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 150,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Philip Seymour Hoffman",
+"born": 1967
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 157,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Diane Keaton",
+"born": 1946
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 162,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Julia Roberts",
+"born": 1967
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 167,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lori Petty",
+"born": 1963
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 165,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Madonna",
+"born": 1954
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 166,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Geena Davis",
+"born": 1956
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 177,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    },
+    "Liczba_filmow": 5
+  },
+  {
+    "aktor": {
+"identity": 175,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Carrie-Anne Moss",
+"born": 1967
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 181,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Emil Eifrem",
+"born": 1978
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 174,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Keanu Reeves",
+"born": 1964
+      }
+    },
+    "Liczba_filmow": 7
+  },
+  {
+    "aktor": {
+"identity": 176,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Laurence Fishburne",
+"born": 1961
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 185,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Charlize Theron",
+"born": 1975
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 186,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Al Pacino",
+"born": 1940
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 201,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Aaron Sorkin",
+"born": 1961
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 196,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kevin Pollak",
+"born": 1957
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 192,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kevin Bacon",
+"born": 1958
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 198,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "James Marshall",
+"born": 1967
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 195,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Cuba Gooding Jr.",
+"born": 1968
+      }
+    },
+    "Liczba_filmow": 4
+  },
+  {
+    "aktor": {
+"identity": 194,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Noah Wyle",
+"born": 1971
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 197,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "J.T. Walsh",
+"born": 1943
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 193,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kiefer Sutherland",
+"born": 1966
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 189,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tom Cruise",
+"born": 1962
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 199,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Christopher Guest",
+"born": 1948
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 191,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Demi Moore",
+"born": 1962
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 190,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jack Nicholson",
+"born": 1937
+      }
+    },
+    "Liczba_filmow": 5
+  },
+  {
+    "aktor": {
+"identity": 204,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Val Kilmer",
+"born": 1959
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 206,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tom Skerritt",
+"born": 1933
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 203,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kelly McGillis",
+"born": 1957
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 207,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Meg Ryan",
+"born": 1961
+      }
+    },
+    "Liczba_filmow": 5
+  },
+  {
+    "aktor": {
+"identity": 205,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Anthony Edwards",
+"born": 1962
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 214,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jay Mohr",
+"born": 1970
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 217,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jonathan Lipnicki",
+"born": 1996
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 215,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Bonnie Hunt",
+"born": 1961
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 212,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kelly Preston",
+"born": 1962
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 211,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Renee Zellweger",
+"born": 1969
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 213,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jerry O'Connell",
+"born": 1974
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 216,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Regina King",
+"born": 1971
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 222,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Wil Wheaton",
+"born": 1972
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 220,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "River Phoenix",
+"born": 1970
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 221,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Corey Feldman",
+"born": 1971
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 223,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "John Cusack",
+"born": 1966
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 224,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Marshall Bell",
+"born": 1942
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 227,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Greg Kinnear",
+"born": 1963
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 226,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Helen Hunt",
+"born": 1963
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 230,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Annabella Sciorra",
+"born": 1960
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 231,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Max von Sydow",
+"born": 1929
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 232,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Werner Herzog",
+"born": 1942
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 233,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Robin Williams",
+"born": 1951
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 237,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Rick Yune",
+"born": 1971
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 236,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ethan Hawke",
+"born": 1970
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 238,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "James Cromwell",
+"born": 1940
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 242,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Dave Chappelle",
+"born": 1973
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 244,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tom Hanks",
+"born": 1956
+      }
+    },
+    "Liczba_filmow": 12
+  },
+  {
+    "aktor": {
+"identity": 243,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Steve Zahn",
+"born": 1967
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 241,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Parker Posey",
+"born": 1968
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 250,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Rosie O'Donnell",
+"born": 1962
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 247,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Rita Wilson",
+"born": 1956
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 248,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Bill Pullman",
+"born": 1953
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 249,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Victor Garber",
+"born": 1949
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 253,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Nathan Lane",
+"born": 1956
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 257,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Bruno Kirby",
+"born": 1949
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 255,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Billy Crystal",
+"born": 1948
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 256,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Carrie Fisher",
+"born": 1956
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 259,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Liv Tyler",
+"born": 1977
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 262,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Gene Hackman",
+"born": 1930
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 261,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Brooke Langton",
+"born": 1970
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 263,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Orlando Jones",
+"born": 1968
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 266,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Christian Bale",
+"born": 1974
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 267,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Zach Grenier",
+"born": 1954
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 271,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Richard Harris",
+"born": 1930
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 272,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Clint Eastwood",
+"born": 1930
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 275,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Dina Meyer",
+"born": 1968
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 276,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ice-T",
+"born": 1958
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 274,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Takeshi Kitano",
+"born": 1947
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 280,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jim Broadbent",
+"born": 1949
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 279,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Halle Berry",
+"born": 1966
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 286,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Audrey Tautou",
+"born": 1976
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 287,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Paul Bettany",
+"born": 1971
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 285,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ian McKellen",
+"born": 1939
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 293,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ben Miles",
+"born": 1967
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 290,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Natalie Portman",
+"born": 1981
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 291,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Stephen Rea",
+"born": 1946
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 292,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "John Hurt",
+"born": 1940
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 298,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Matthew Fox",
+"born": 1966
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 296,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "John Goodman",
+"born": 1960
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 300,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Rain",
+"born": 1982
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 295,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Emile Hirsch",
+"born": 1985
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 299,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Christina Ricci",
+"born": 1980
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 297,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Susan Sarandon",
+"born": 1946
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 302,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Naomie Harris"
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 304,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Michael Clarke Duncan",
+"born": 1957
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 308,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Patricia Clarkson",
+"born": 1959
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 307,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Gary Sinise",
+"born": 1955
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 306,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Sam Rockwell",
+"born": 1968
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 305,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "David Morse",
+"born": 1953
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 313,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Oliver Platt",
+"born": 1960
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 311,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Frank Langella",
+"born": 1938
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 312,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Michael Sheen",
+"born": 1969
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 315,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Danny DeVito",
+"born": 1944
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 316,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "John C. Reilly",
+"born": 1965
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 319,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Bill Paxton",
+"born": 1955
+      }
+    },
+    "Liczba_filmow": 3
+  },
+  {
+    "aktor": {
+"identity": 318,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ed Harris",
+"born": 1950
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 321,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Philip Seymour Hoffman",
+"born": 1967
+      }
+    },
+    "Liczba_filmow": 2
+  },
+  {
+    "aktor": {
+"identity": 328,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Diane Keaton",
+"born": 1946
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 333,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Julia Roberts",
+"born": 1967
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 337,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Geena Davis",
+"born": 1956
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 336,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Madonna",
+"born": 1954
+      }
+    },
+    "Liczba_filmow": 1
+  },
+  {
+    "aktor": {
+"identity": 338,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Lori Petty",
+"born": 1963
+      }
+    },
+    "Liczba_filmow": 1
+  }
+]

@@ -1,0 +1,27 @@
+{ 
+    "result" : "Average_weight", 
+    "ok" : 1.0
+}
+{ 
+    "result" : "Average_height", 
+    "ok" : 1.0
+}
+
+{ 
+    "_id" : "Female", 
+    "value" : 69.62432269717038
+}
+{ 
+    "_id" : "Male", 
+    "value" : 69.50687661949372
+}
+
+
+{ 
+    "_id" : "Female", 
+    "value" : 166.62131246237206
+}
+{ 
+    "_id" : "Male", 
+    "value" : 166.59138927646003
+}

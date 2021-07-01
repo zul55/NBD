@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/foqF3+OACCUy5bEy/Njmd4svCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.8 (that head fake, tho)
+Link: </buckets/s23687>; rel="up"
+Last-Modified: Mon, 28 Jun 2021 21:11:20 GMT
+ETag: "43poepCB7gszRtuF5gEFny"
+Date: Mon, 28 Jun 2021 21:16:06 GMT
+Content-Type: application/json
+Content-Length: 71
+
+{'name':'julia','nazwisko':'rojewska','wiek':22,'posiada_zwierze':null}

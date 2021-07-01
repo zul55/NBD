@@ -1,0 +1,1641 @@
+{ 
+    "_id" : [
+        "USD", 
+        "CLP", 
+        "VND"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PHP"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "AMD", 
+        "PHP", 
+        "USD", 
+        "KZT"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "USD", 
+        "EUR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "ZWL", 
+        "CNY", 
+        "BRL", 
+        "IDR", 
+        "PHP"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "CUP", 
+        "HRK", 
+        "IDR", 
+        "KYD"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "CNY", 
+        "BRL", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PKR", 
+        "MXN", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "HRK", 
+        "BRL", 
+        "SEK", 
+        "JPY", 
+        "EUR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "EUR", 
+        "EUR", 
+        "PLN", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "YER", 
+        "IDR", 
+        "CNY", 
+        "AMD"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PHP", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "EUR", 
+        "MMK", 
+        "PHP", 
+        "BRL", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "CNY", 
+        "IQD", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "NPR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "RUB", 
+        "THB"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "USD", 
+        "MNT", 
+        "AFN", 
+        "CUP"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "EUR", 
+        "MGA", 
+        "NGN", 
+        "CAD"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PLN"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "EUR", 
+        "EUR", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "EUR", 
+        "COP"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "CLP", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "BRL"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "EUR", 
+        "EUR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PHP", 
+        "IDR", 
+        "PHP", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "DOP", 
+        "BRL", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "ARS", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CAD", 
+        "IDR", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "MGA", 
+        "CNY", 
+        "EUR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CAD"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IRR", 
+        "EUR", 
+        "MAD"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "AFN"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "EUR", 
+        "USD", 
+        "EUR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PLN", 
+        "NIO", 
+        "RUB", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PHP", 
+        "UAH", 
+        "NGN"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "HNL", 
+        "USD"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "RUB", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "RUB", 
+        "RUB"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "NGN", 
+        "ARS", 
+        "IDR", 
+        "EUR", 
+        "THB"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "CNY", 
+        "PHP", 
+        "EUR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "ILS", 
+        "RUB", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "ISK", 
+        "AMD", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PLN", 
+        "PHP"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "EUR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "VEF", 
+        "MKD", 
+        "RUB", 
+        "PLN"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "YER", 
+        "PLN", 
+        "ARS"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "EUR", 
+        "SEK", 
+        "CZK", 
+        "CZK"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "MWK"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "IDR", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PHP", 
+        "SEK", 
+        "EUR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "CAD", 
+        "IRR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PLN", 
+        "SEK", 
+        "EUR", 
+        "SEK", 
+        "VUV"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "KRW", 
+        "CNY", 
+        "RUB"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PHP", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "NOK"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "GBP", 
+        "HRK", 
+        "CNY", 
+        "RUB", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "LYD", 
+        "EUR", 
+        "ARS", 
+        "CNY", 
+        "BOB"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "BWP", 
+        "SEK", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "MXN", 
+        "EUR", 
+        "IRR", 
+        "BGN", 
+        "BGN"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "HRK", 
+        "CAD", 
+        "CDF"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IRR", 
+        "VND", 
+        "ALL", 
+        "CNY", 
+        "PHP"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "MXN"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "RUB", 
+        "IDR", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PEN"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "JPY", 
+        "UZS", 
+        "EUR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "EUR", 
+        "CNY", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CAD", 
+        "IDR", 
+        "IDR", 
+        "DOP"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PLN", 
+        "EUR", 
+        "YER"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "PHP", 
+        "ZMW", 
+        "IDR", 
+        "DOP"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PLN", 
+        "UAH", 
+        "ETB", 
+        "IDR", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PLN", 
+        "IDR", 
+        "EGP", 
+        "XOF"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "ARS", 
+        "SEK", 
+        "XOF", 
+        "EUR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "CNY", 
+        "VND", 
+        "VND", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "USD", 
+        "RUB", 
+        "SEK", 
+        "ZAR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "RSD", 
+        "PHP", 
+        "THB", 
+        "CZK", 
+        "RUB"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "NIO", 
+        "CZK", 
+        "RUB", 
+        "RUB"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "UAH", 
+        "JPY", 
+        "JPY", 
+        "COP"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "USD", 
+        "PEN"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "BGN", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "PEN", 
+        "CZK", 
+        "AFN", 
+        "PHP"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PKR", 
+        "MXN", 
+        "RUB", 
+        "BYR", 
+        "PYG"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "AMD"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "JPY", 
+        "CUP", 
+        "IDR", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PLN", 
+        "CNY", 
+        "CNY", 
+        "CNY", 
+        "NZD"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "RUB", 
+        "JPY", 
+        "CAD", 
+        "BRL"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "SEK", 
+        "IDR", 
+        "PLN", 
+        "BRL"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "CAD", 
+        "DOP", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "UAH", 
+        "IDR", 
+        "MYR", 
+        "PHP"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "TZS", 
+        "CNY", 
+        "BRL"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "ZAR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "EUR", 
+        "MXN", 
+        "XPF", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PEN", 
+        "USD"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "MNT", 
+        "USD", 
+        "RUB", 
+        "CNY", 
+        "PHP"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "EUR", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "MGA", 
+        "USD", 
+        "CLP", 
+        "XAF"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "EUR", 
+        "MNT", 
+        "CNY", 
+        "CNY", 
+        "PHP"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "IDR", 
+        "IDR", 
+        "BGN"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "CNY", 
+        "RUB", 
+        "EUR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "USD"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "SEK", 
+        "EUR", 
+        "COP", 
+        "EUR", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "MXN", 
+        "CNY", 
+        "CNY", 
+        "RUB"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "VND", 
+        "UAH"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "CNY", 
+        "XOF"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "MNT", 
+        "EUR", 
+        "BRL", 
+        "EUR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PEN", 
+        "PHP", 
+        "SEK", 
+        "NGN"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "THB", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "CNY", 
+        "EUR", 
+        "PHP", 
+        "MXN"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "EUR", 
+        "PLN", 
+        "XAF"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "RUB", 
+        "THB", 
+        "CZK", 
+        "COP"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "EUR", 
+        "MXN", 
+        "USD", 
+        "PKR", 
+        "RUB"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "IRR", 
+        "PKR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "HRK"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "LYD", 
+        "PLN"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CAD", 
+        "CZK", 
+        "XAF", 
+        "MXN", 
+        "JPY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CZK", 
+        "EUR", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "SEK", 
+        "CNY", 
+        "UAH"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "IDR", 
+        "CNY", 
+        "KRW", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "NGN"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "IDR", 
+        "BRL"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "RUB"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "RUB", 
+        "JPY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "VND", 
+        "IDR", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "TZS", 
+        "CDF", 
+        "VEF", 
+        "USD", 
+        "SEK"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CLP", 
+        "UAH", 
+        "CAD"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "IDR", 
+        "PLN", 
+        "EUR", 
+        "MXN"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "PHP", 
+        "CNY", 
+        "CAD"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "ILS", 
+        "JPY", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "EUR", 
+        "IDR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "EUR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "GTQ", 
+        "IDR", 
+        "CNY", 
+        "EUR", 
+        "ILS"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "AMD", 
+        "IRR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "TJS", 
+        "SRD", 
+        "CNY", 
+        "CNY"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "EUR", 
+        "JPY", 
+        "EUR", 
+        "VND"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "USD"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "RWF", 
+        "CNY", 
+        "PLN", 
+        "JPY", 
+        "USD"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "CNY", 
+        "HNL", 
+        "UAH", 
+        "CNY", 
+        "EUR"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "EUR", 
+        "HNL"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "IDR", 
+        "EUR", 
+        "CNY", 
+        "SEK", 
+        "RUB"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "VND", 
+        "JPY", 
+        "PLN"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "PLN", 
+        "ZAR", 
+        "IDR", 
+        "NGN"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
+{ 
+    "_id" : [
+        "EUR", 
+        "CNY", 
+        "IDR", 
+        "PHP"
+    ], 
+    "avr" : null, 
+    "sum" : {
+
+    }
+}
